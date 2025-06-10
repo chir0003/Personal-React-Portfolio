@@ -1,0 +1,14 @@
+:root {
+  /* Colours */
+  --color-text: #ffffff;
+  --color-primary: #2c5282;  /* Deep professional blue */
+  --color-secondary: #4299e1;  /* Bright accessible blue */
+  --color-dark: #1a365d;  /* Dark navy */
+  --color-bg: #f0f2f5;  /* Light grey background */
+  --color-card-bg: #ffffff;  /* White for cards */
+  --color-accent: #38b2ac;  /* Teal accent */
+  --color-text-secondary: #4a5568;  /* Dark gray for secondary text */
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}

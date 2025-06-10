@@ -1,0 +1,25 @@
+[
+  {
+    "title": "SPA Anuglar Project ",
+    "imageSrc": "projects/project.png",
+    "description": "A full stack,cloud deployed package tracking app with a real time custom dashboard using Angular and Node.js.",
+    "skills": ["Node", "TypeScript", "RESTFUL API"],
+    "source": "https://github.com/chir0003/SPA_application"
+  },
+  {
+    "title": "E commerce GYM Website",
+    "imageSrc": "projects/Ecom.png",
+    "description": "This Project is Built on CakePHP using realtime Database and API Integration For GYM Client",
+    "skills": ["PHP", "JavaScript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chir0003/E-commerce-GYM-Website"
+  },
+  {
+    "title": "EVENT MANAGEMENT APP",
+    "imageSrc": "projects/app.png",
+    "description": "Built a native Android application enabling users to organize, locate, and manage events with real-time map integration.",
+    "skills": ["Java", "Android Studio", "Kotlin"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chir0003/Android-App"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "degree": "Bachelor of Information Technology ",
+    "major": "Major in Software Development",
+    "school": "Monash University",
+    "startDate": "June 2023",
+    "endDate": "Nov 2025",
+    "achievements": [
+      "Relevant Coursework: IOS and Android Apps ",
+      "Software Engineering | Full Stack Development | OOP in java | Cake PHP",
+      "GPA: 3.00/4.00"
+    ],
+    "imageSrc": "education/Monash.svg"
+  }
+] 
