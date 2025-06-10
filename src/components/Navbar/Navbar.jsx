@@ -8,7 +8,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
+      <a className={styles.title} href="https://chir0003.github.io/Personal-React-Portfolio/">
         Chirag's Portfolio
       </a>
       <div className={styles.menu}>
