@@ -10,8 +10,8 @@
   justify-content: space-between;
   padding: 20px 10%;
   z-index: 100;
-  background-color: var(--color-bg);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: var(--color-dark);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .title {
@@ -44,7 +44,7 @@
 
 .menuItems a {
   font-size: 20px;
-  color: var(--color-text-secondary);
+  color: var(--color-text);
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s ease;
@@ -88,6 +88,7 @@
   .menuBtn {
     display: block;
     cursor: pointer;
+    filter: brightness(0) invert(1); /* Make the hamburger icon white */
   }
 
   .menuItems {
@@ -96,10 +97,18 @@
     align-items: center;
     gap: 13px;
     border-radius: 10px;
-    background: var(--color-bg);
+    background: var(--color-dark);
     padding: 24px 33px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     min-width: 200px;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 10px;
+  }
+
+  .menuItems a {
+    color: var(--color-text);
   }
 
   .menuOpen {
