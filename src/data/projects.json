@@ -1,25 +1,33 @@
 [
   {
-    "title": "SPA Anuglar Project ",
-    "imageSrc": "projects/project.png",
-    "description": "A full stack,cloud deployed package tracking app with a real time custom dashboard using Angular and Node.js.",
-    "skills": ["Node", "TypeScript", "RESTFUL API"],
-    "source": "https://github.com/chir0003/SPA_application"
+    "title": "Smart Suburb Finder",
+    "imageSrc": "projects/suburb-finder.png",
+    "description": "A full-stack web application that helps users find the perfect Melbourne suburb based on their budget and lifestyle needs. Features AI-powered recommendations and real-time data analysis.",
+    "skills": [
+      "React.js",
+      "Node.js", 
+      "RESTful APIs",
+      "AI/ML Integration",
+      "CI/CD Pipeline",
+      "AWS"
+    ],
+    "demo": "https://suburb-finder-1.onrender.com",
+    "source": "https://github.com/chir0003/suburb-finder"
   },
   {
-    "title": "E commerce GYM Website",
+    "title": "E-commerce GYM Website",
     "imageSrc": "projects/Ecom.png",
-    "description": "This Project is Built on CakePHP using realtime Database and API Integration For GYM Client",
-    "skills": ["PHP", "JavaScript", "HTML", "CSS"],
-    "demo": "https://www.example.com",
+    "description": "A comprehensive e-commerce platform for gym equipment retailers with inventory management, payment processing, and customer analytics. Features user authentication, product catalog, and admin panel.",
+    "skills": ["PHP", "CakePHP", "JavaScript", "MySQL", "RESTful APIs", "Payment Gateway", "cPanel", "HTML5", "CSS3", "Bootstrap", "jQuery"],
+    "demo": "https://powerproshop.u25s1031.iedev.org/pages/home",
     "source": "https://github.com/chir0003/E-commerce-GYM-Website"
   },
+
   {
-    "title": "EVENT MANAGEMENT APP",
+    "title": "Event Management Mobile App",
     "imageSrc": "projects/app.png",
-    "description": "Built a native Android application enabling users to organize, locate, and manage events with real-time map integration.",
-    "skills": ["Java", "Android Studio", "Kotlin"],
-    "demo": "https://www.example.com",
+    "description": "A feature-rich Android application for event planning with location services, social media integration, and push notifications. Users can create, discover, and join events with mapping and calendar sync.",
+    "skills": ["Java", "Android Studio", "Kotlin", "Google Maps API", "Firebase", "Material Design",  "Push Notifications"],
     "source": "https://github.com/chir0003/Android-App"
   }
 ]
