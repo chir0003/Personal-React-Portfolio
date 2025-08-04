@@ -1,6 +1,6 @@
 [
   {
-    "title": "Smart Suburb Finder",
+    "title": "Commute Nest",
     "imageSrc": "projects/suburb-finder.png",
     "description": "A full-stack web application that helps users find the perfect Melbourne suburb based on their budget and lifestyle needs. Features AI-powered recommendations and real-time data analysis.",
     "skills": [
@@ -9,7 +9,8 @@
       "RESTful APIs",
       "AI/ML Integration",
       "CI/CD Pipeline",
-      "AWS"
+      "AWS",
+      "Docker"
     ],
     "demo": "https://commutenest.onrender.com/",
     "source": "https://github.com/chir0003/suburb-finder"
